@@ -75,5 +75,5 @@ dependencies {
 //    implementation 'androidx.camera:camera-view:1.0.0-alpha19'
     implementation 'io.fotoapparat:fotoapparat:2.7.0'
 
-    implementation project(":libfacesdk")
+//    implementation project(":libfacesdk")
 }
