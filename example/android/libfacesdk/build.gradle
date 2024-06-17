@@ -1,0 +1,4 @@
+package example.android.libfacesdk
+
+configurations.maybeCreate("default")
+artifacts.add("default", file('facesdk.aar'))
